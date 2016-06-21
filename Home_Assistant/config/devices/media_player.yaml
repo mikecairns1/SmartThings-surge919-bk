@@ -1,0 +1,8 @@
+- platform: kodi
+  name: "Bedroom Kodi"
+  host: http://10.0.0.82
+  port: 8080
+  
+- platform: pioneer
+  host: 10.0.0.45
+  name: Living receiver
